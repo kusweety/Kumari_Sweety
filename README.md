@@ -1,5 +1,4 @@
 # Kumari_Sweety
-# Sweety_Singh
 # Hi, I'm Kumari Sweety 👋
 
 ### Project Manager | Agile Delivery | QA & Test Automation | AI-Driven Delivery | Digital Transformation | Enterprise Technology Programs
